@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": "first_post",
+      "title": "My first Post",
+      "content": "Hello"
+    },
+    {
+      "id": "learn_nodejs",
+      "title": "Node Study",
+      "content": "Data management with JSON."
+    },
+    { "id": "Hello", "title": "Hello", "content": "my content" }
+  ]
+}
