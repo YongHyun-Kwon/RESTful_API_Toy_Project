@@ -8,7 +8,7 @@
     {
       "id": "learn_nodejs",
       "title": "Node Study",
-      "content": "Data management with JSON."
+      "content": "Data management with JSON"
     },
     { "id": "Hello", "title": "Hello", "content": "my content" }
   ]
